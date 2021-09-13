@@ -1,2 +1,2 @@
 example of commit
-change1
+add and commit together
